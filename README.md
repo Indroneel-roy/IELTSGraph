@@ -12,3 +12,5 @@ This app evaluates an IELTS essay across multiple dimensions — **Language**, *
 ✅ **Interactive Web Interface** — Built with Streamlit  
 ✅ **Structured Output** — Ensures consistent and reliable LLM responses  
 ✅ **Extensible** — Easily add more evaluation criteria (e.g. Task Response for IELTS Writing Task 2)
+## Workflow
+![app-screenshot](https://github.com/Indroneel-roy/generative-ai-projects/blob/main/GenLinkAI/git.png)
